@@ -25,5 +25,5 @@ This demonstrates how machine learning can "learn" from past examples and make p
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/ml-example.git
-   cd ml-example
+gh repo clone LeveLisahluma/MachineLearningREPO
+   cd MachineLearningREPO
