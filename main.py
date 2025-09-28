@@ -28,3 +28,7 @@ plt.xlabel("House size (sq ft)")
 plt.ylabel("Price ($)")
 plt.legend()
 plt.show()
+
+
+if __name__ == "__main__":
+    train_and_predict()
